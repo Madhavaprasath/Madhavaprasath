@@ -1,4 +1,4 @@
-### Hi there this is MadhavaPrasath 👋
+### Hi there this is MadhavaPrasath <img src="https://raw.githubusercontent.com/Madhavaprasath/Madhavaprasathmaster/wave.gif" width="30px">
 
  Hello My Friends 
 
@@ -11,7 +11,7 @@
 - 😄 Pronouns: he/him
 
 
-###Connect with Me
+### Connect with Me
 
 
 
