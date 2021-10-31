@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on a Game where planes shoot each other
 - 🌱 I’m currently learning everything my brain can understand
-- 👯 I’m looking to collaborate on everyone
+- 👯 I’m looking to collaborate with everyone
 - 🤔 I’m looking for help with everything what i learn
 - 😄 Pronouns: he/him
 
 
 ### Connect with Me
-
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/prasath_madhava.svg?style=social&label=Follow%20%40prasath_madhava)](https://twitter.com/prasath_madhava)
 
 
 <a href="https://github.com/Madhavaprasath/Madhavaprasath">
@@ -24,3 +24,4 @@
 <a href="https://github.com/Madhavaprasath/AreoplaneGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Madhavaprasath&repo=AreoplaneGame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
