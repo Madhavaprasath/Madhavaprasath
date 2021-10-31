@@ -13,7 +13,12 @@
 
 ### Connect with Me
 [![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+](https://www.instagram.com/madhava_prasath/)
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ](https://twitter.com/prasath_madhava)
+[!GitHub URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+](https://github.com/Madhavaprasath)
+
 
 
 <a href="https://github.com/Madhavaprasath/Madhavaprasath">
