@@ -12,7 +12,8 @@
 
 
 ### Connect with Me
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/prasath_madhava.svg?style=social&label=Follow%20%40prasath_madhava)](https://twitter.com/prasath_madhava)
+[![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+](https://twitter.com/prasath_madhava)
 
 
 <a href="https://github.com/Madhavaprasath/Madhavaprasath">
