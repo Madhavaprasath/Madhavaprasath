@@ -1,4 +1,4 @@
-### Hi there this is MadhavaPrasath <img src="https://raw.githubusercontent.com/Madhavaprasath/Madhavaprasath/wave.gif" width="30px">
+### Hi there this is MadhavaPrasath <img src="https://raw.githubusercontent.com/Madhavaprasath/Madhavaprasath/main/wave.gif" width="30px">
 
  Hello My Visitor ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Madhavaprasath.visitor-badge)
 
