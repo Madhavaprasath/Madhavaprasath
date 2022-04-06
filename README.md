@@ -5,7 +5,6 @@
 
 
 
-- 🔭 I’m currently working on a Game where planes shoot each other
 - 🌱 I’m currently learning everything my brain can understand
 - 👯 I’m looking to collaborate with everyone
 - 🤔 I’m looking for help with everything what i learn
